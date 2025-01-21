@@ -2,4 +2,4 @@
 
 - Utilizando JDBC e conceitos DAO no projeto.
 
-<img src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/java.png" height="60"/>
+<img src="https://icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" height="60"/>
